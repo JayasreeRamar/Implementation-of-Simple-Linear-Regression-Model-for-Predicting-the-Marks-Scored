@@ -118,7 +118,8 @@ print("RMSE = ",rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-
+![alt text](image-10.png)
+![alt text](image-11.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
